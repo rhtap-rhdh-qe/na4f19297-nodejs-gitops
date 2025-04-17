@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: na4f19297-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/na4f19297-nodejs
